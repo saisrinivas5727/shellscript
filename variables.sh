@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "sai:goodboy"
-echo "srinivas:goodboy"
+x=sai
+y=srinivas
+echo "$x:goodboy $y"
+echo "$x:goodboy $x $y"
